@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VipulGirme, currently working @Dassault Systems as Research & Development Engineer
 - 👀 I’m interested in developing new projects using Angular, Spring Boot.
-- 😀 I am also interested in solving DSA problems.
+- 😀 I also 💙 solving DSA problems.
 - 🦾 By education I am Mechanical Engineer but deep down I love to code.
 - 🌱 I’m currently exploring React, Flutter and will also try to build few Android Apps.
 - 💞️ I’m looking to collaborate on working for Freelancing projects.
