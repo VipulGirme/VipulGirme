@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VipulGirme, currently working @Dassault Systems as Research & Development Engineer
+- 👋 Hi, I’m @VipulGirme, currently working @Dassault Systems as Research & Development Engineer.
 - 👀 I’m interested in developing new projects using Angular, Spring Boot, along with 3+ years experience.
 - 😀 I also 💙 solving DSA problems.
 - 🦾 By education I am Mechanical Engineer but deep down I love to code.
